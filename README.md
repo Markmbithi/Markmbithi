@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Markmbithi
-- 👀 I’m interested in Front end development using Reactjs, Mobile development using ReactNative, Kotlin and backend development using Nodejs, database systems MySQL, Nodejs
+- 👀 I’m interested in Front end development using Reactjs, Material UI, Mobile development using Java, Kotlin and backend development using Nodejs, database systems MySQL, PostgreSQL, MongoDB
 - 🌱 I’m currently learning Kotlin
 - 💞️ I’m looking to collaborate on any interesting mobile or web project
 - 📫 How to reach me markmbila@gmail.com
